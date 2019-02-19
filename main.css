@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+body{
+    background-color:lavenderblush;
+}
+
+header p{
+    font-size: 18px; 
+    
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+main{
+    margin: 5%;
+    font-size: 24px; 
+    font-weight: bold;
+}
+
+footer{
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    font-weight: bold;
+    padding: 2%;
+    background-color: darkcyan;
+}
